@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  /* Merry Time Africa Brand Colors (Optimized for Tourism & Adventure) */
+  --color-navy-dark: #06132d;
+  --color-navy: #0a1f44;
+  --color-navy-light: #112e66;
+  
+  --color-sky: #00A8E8;        /* Bright sky blue for highlights */
+  --color-teal: #008080;       /* Calm nature/water complementary */
+  --color-coral: #FF6F61;      /* Warm sunset/adventure CTA accent */
+  --color-gold: #FFD700;       /* Premium trust badge & rating color */
+  
+  --color-safari-sand: #F4EEDD; /* Warm earthy card background */
+  --color-safari-earth: #8C6D46;/* Rich soil & trunk tone */
+  
+  --color-gray-light: #F5F5F5;
+  --color-gray-DEFAULT: #333333;
+}
