@@ -1,4 +1,4 @@
-# Merry Time Africa Safaris & Expeditions 🐘✈️
+# Merry Time Africa Safaris & Expeditions
 
 Welcome to the official source code for **Merry Time Africa Safaris & Expeditions**, a full-stack web application designed for browsing East African wildlife safaris, mountain expeditions, and submitting custom tailor-made tour enquiries.
 
